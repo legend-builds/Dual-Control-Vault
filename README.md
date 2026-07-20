@@ -4,7 +4,7 @@
 
 ## 🔗 Contract Details
 * **Network:** Base Vibenet (Testnet)
-* **Contract Address:** [0xaF22986aD254cEC96CFd00e94A769183f479f655]
+* **Contract Address:** [0x221E09d71bd9875bef8f8DE595cBa0670007C8fc]
 
 ## 🚀 Key Features
 * **Dual-Owner Logic:** Shared administrative control between two authorized addresses.
