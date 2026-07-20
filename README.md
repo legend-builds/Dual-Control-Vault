@@ -8,7 +8,7 @@
 
 ## 🚀 Key Features
 * **Dual-Owner Logic:** Shared administrative control between two authorized addresses.
-* **Batch Execution:** Optimized multi-recipient transaction handling for gas efficiency.
+* **Batch Execution:** Optimized multi-recipient transaction handling for gas efficiency..
 * **Asset Management:** Secure deposit and withdrawal functionality.
 
 ## 🛠 Tech Stack
