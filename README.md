@@ -2,7 +2,6 @@
 
 **DualControlVault** is a multi-owner smart account implementation designed for the Base network, focusing on shared asset management and secure batch transaction execution.
 
-
 ## 🔗 Contract Details 
 * **Network:** Base Vibenet (Testnet) 
 
